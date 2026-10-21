@@ -138,7 +138,7 @@ int main()
 	    ofile << "enrolled year"<<art_students[i]->getEnrolly()<<"\n";
 	    ofile << "enrolled semester"<<art_students[i]->getEnrolls()<<"\n";
 	    ofile << "undergrad/grad"<<art_students[i]->getUG()<<"\n";
-	    ofile << "art emphasis"<<art_students[i]->getAE();
+	    ofile << "art emphasis"<<art_students[i]->getAE()<<"\n";
         }
 	for(int i = 0;i < physics_students.size();i++)
 	{
@@ -149,7 +149,8 @@ int main()
             ofile << "enrolled year"<<physics_students[i]->getEnrolly()<<"\n";
             ofile << "enrolled semester"<<physics_students[i]->getEnrolls()<<"\n";
             ofile << "undergrad/grad"<<physics_students[i]->getUG()<<"\n";
-	    ofile << "concentration" <<physics_students[i]->getC();
+            ofile << "concentration" <<physics_students[i]->getC()<<"\n";
+	    ofile << "\n";
 	}
 	ofile.close();
     }
