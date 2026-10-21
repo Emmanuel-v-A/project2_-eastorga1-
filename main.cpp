@@ -131,24 +131,24 @@ int main()
     {
         for(int i = 0;i < art_students.size();i++)
         {
-            ofile << "name" << art_students[i]->getFirstname()<<""<<art_students[i]->getLastname();
-	    ofile << "GPA" << art_students[i]->getGPA(); 
-	    ofile << "graduation year"<<art_students[i]->getGrady();
-	    ofile << "graduation semester"<<art_students[i]->getGrads();
-	    ofile << "enrolled year"<<art_students[i]->getEnrolly();
-	    ofile << "enrolled semester"<<art_students[i]->getEnrolls();
-	    ofile << "undergrad/grad"<<art_students[i]->getUG();
+            ofile << "name" << art_students[i]->getFirstname()<<""<<art_students[i]->getLastname()<<"\n";
+	    ofile << "GPA" << art_students[i]->getGPA()<<"\n"; 
+	    ofile << "graduation year"<<art_students[i]->getGrady()<<"\n";
+	    ofile << "graduation semester"<<art_students[i]->getGrads()<<"\n";
+	    ofile << "enrolled year"<<art_students[i]->getEnrolly()<<"\n";
+	    ofile << "enrolled semester"<<art_students[i]->getEnrolls()<<"\n";
+	    ofile << "undergrad/grad"<<art_students[i]->getUG()<<"\n";
 	    ofile << "art emphasis"<<art_students[i]->getAE();
         }
 	for(int i = 0;i < physics_students.size();i++)
 	{
-            ofile << "name" << physics_students[i]->getFirstname()<<""<<physics_students[i]->getLastname();
-            ofile << "GPA" << physics_students[i]->getGPA();
-            ofile << "graduation year"<<physics_students[i]->getGrady();
-            ofile << "graduation semester"<<physics_students[i]->getGrads();
-            ofile << "enrolled year"<<physics_students[i]->getEnrolly();
-            ofile << "enrolled semester"<<physics_students[i]->getEnrolls();
-            ofile << "undergrad/grad"<<physics_students[i]->getUG();
+            ofile << "name" << physics_students[i]->getFirstname()<<""<<physics_students[i]->getLastname()<<"\n";
+            ofile << "GPA" << physics_students[i]->getGPA()<<"\n";
+            ofile << "graduation year"<<physics_students[i]->getGrady()<<"\n";
+            ofile << "graduation semester"<<physics_students[i]->getGrads()<<"\n";
+            ofile << "enrolled year"<<physics_students[i]->getEnrolly()<<"\n";
+            ofile << "enrolled semester"<<physics_students[i]->getEnrolls()<<"\n";
+            ofile << "undergrad/grad"<<physics_students[i]->getUG()<<"\n";
 	    ofile << "concentration" <<physics_students[i]->getC();
 	}
 	ofile.close();
