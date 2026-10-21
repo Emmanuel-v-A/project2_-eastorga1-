@@ -1,85 +1,90 @@
-namesomename
-GPA0.3
-graduation year2030
-graduation semesterspring
-enrolled year2026
-enrolled semesterfall
-undergrad/gradundergrad
-art emphasisArt History
-namemichaeljordan
-GPA1.3
-graduation year2031
-graduation semesterspring
-enrolled year2027
-enrolled semesterfall
-undergrad/gradundergrad
-art emphasisArt Studio
-namemichaeljackson
-GPA2.3
-graduation year2032
-graduation semesterspring
-enrolled year2028
-enrolled semesterfall
-undergrad/gradundergrad
-art emphasisArt Education
-namemaryjane
-GPA3.3
-graduation year2033
-graduation semesterspring
-enrolled year2029
-enrolled semesterfall
-undergrad/gradundergrad
-art emphasisArt History
-namemichaelb joradan
-GPA4.3
-graduation year2034
-graduation semesterspring
-enrolled year2030
-enrolled semesterfall
-undergrad/gradundergrad
-art emphasisArt Studio
-namevicentefernandez
-GPA0.3
-graduation year2030
-graduation semesterspring
-enrolled year2026
-enrolled semesterfall
-undergrad/gradgrad
-concentrationBiophysics
+name: somename
+GPA: 0.3
+graduation year: 2030
+graduation semester: spring
+enrolled year: 2026
+enrolled semester: fall
+undergrad/grad: undergrad
+art emphasis: Art History
 
-namejuanGabriel
-GPA1.3
-graduation year2031
-graduation semesterspring
-enrolled year2027
-enrolled semesterfall
-undergrad/gradgrad
-concentrationEarth and Planetary Sciences
+name: michaeljordan
+GPA: 1.3
+graduation year: 2031
+graduation semester: spring
+enrolled year: 2027
+enrolled semester: fall
+undergrad/grad: undergrad
+art emphasis: Art Studio
 
-nameLudovicopeluche
-GPA2.3
-graduation year2032
-graduation semesterspring
-enrolled year2028
-enrolled semesterfall
-undergrad/gradgrad
-concentrationBiophysics
+name: michaeljackson
+GPA: 2.3
+graduation year: 2032
+graduation semester: spring
+enrolled year: 2028
+enrolled semester: fall
+undergrad/grad: undergrad
+art emphasis: Art Education
 
-namememoochoa
-GPA3.3
-graduation year2033
-graduation semesterspring
-enrolled year2029
-enrolled semesterfall
-undergrad/gradgrad
-concentrationEarth and Planetary Sciences
+name: maryjane
+GPA: 3.3
+graduation year: 2033
+graduation semester: spring
+enrolled year: 2029
+enrolled semester: fall
+undergrad/grad: undergrad
+art emphasis: Art History
 
-namedannytrejo
-GPA4.3
-graduation year2034
-graduation semesterspring
-enrolled year2030
-enrolled semesterfall
-undergrad/gradgrad
-concentrationBiophysics
+name: michaelb joradan
+GPA: 4.3
+graduation year: 2034
+graduation semester: spring
+enrolled year: 2030
+enrolled semester: fall
+undergrad/grad: undergrad
+art emphasis: Art Studio
+
+name: vicentefernandez
+GPA: 0.3
+graduation year: 2030
+graduation semester: spring
+enrolled year: 2026
+enrolled semester: fall
+undergrad/grad: grad
+concentration: Biophysics
+
+name: juanGabriel
+GPA: 1.3
+graduation year: 2031
+graduation semester: spring
+enrolled year: 2027
+enrolled semester: fall
+undergrad/grad: grad
+concentration: Earth and Planetary Sciences
+
+name: Ludovicopeluche
+GPA: 2.3
+graduation year: 2032
+graduation semester: spring
+enrolled year: 2028
+enrolled semester: fall
+undergrad/grad: grad
+concentration: Biophysics
+
+name: memoochoa
+GPA: 3.3
+graduation year: 2033
+graduation semester: spring
+enrolled year: 2029
+enrolled semester: fall
+undergrad/grad: grad
+concentration: Earth and Planetary Sciences
+
+name: dannytrejo
+GPA: 4.3
+graduation year: 2034
+graduation semester: spring
+enrolled year: 2030
+enrolled semester: fall
+undergrad/grad: grad
+concentration: Biophysics
 
